@@ -1,4 +1,4 @@
-# Crowdfunding_ETL // Project 2 // Students on Project: Michael Strati (solo) // Date Due: 230828
+# Crowdfunding_ETL // Project 2 // Students: Michael Strati (solo) // Date Due: 230828
 
 ----------------------------------------------
 # Files in "Crowdfunding_ETL" Folder
