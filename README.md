@@ -7,7 +7,7 @@
 
 -crowdfunding_db_v01.mssql = "crowdfunding_db" DATABASE created in PGAdmin. 4 Tables Imported from CSV Files ( campaign.csv, category.csv, contacts.csv, subcategory.csv )
 
--crowdfunding_db_v02.mssql = Saved record Queries run in the "crowdfunding_db" DATABASE
+-crowdfunding_db_v02.mssql = Saved record of Queries run in the "crowdfunding_db" DATABASE
 
 -ETL_Mini_Project_Starter_Code_MStrati.ipynb = Jupyter Notebook for the Project, Exported 4 CSV Files from Notebook ( campaign.csv, category.csv, contacts.csv, subcategory.csv )
 
